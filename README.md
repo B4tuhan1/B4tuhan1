@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B4tuhan1
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Offensive Security
+- 👀 I’m interested in Full-Stack Web Devoloping
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me https://www.linkedin.com/in/batuhan-%C3%B6zabravc%C4%B1-260a35231
 -    
 
